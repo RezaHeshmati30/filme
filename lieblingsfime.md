@@ -46,3 +46,7 @@ Emilia Clarke
 See also: Synopsis of A Song of Ice and Fire and World of A Song of Ice and Fire
 Game of Thrones is roughly based on the storylines of the A Song of Ice and Fire book series by George R. R. Martin, set in the fictional Seven Kingdoms of Westeros and the continent of Essos.[5][6] The series follows several simultaneous plot lines.[7] The first story arc follows a war of succession among competing claimants for control of the Iron Throne of the Seven Kingdoms, with other noble families fighting for independence from the throne. The second concerns the exiled scion's actions to reclaim the throne; the third chronicles the threat of the impending winter, as well as the legendary creatures and fierce peoples of the North.[8]
 
+4.
+#tedlasso
+
+##keine ahnung
