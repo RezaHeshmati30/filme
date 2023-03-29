@@ -26,8 +26,23 @@ Michael Caine
 #Plot
 in 2067, a global famine caused humanity to abandon scientific pursuits such as space exploration. 
 Ex-NASA pilot Joseph Cooper is forced to work as a farmer. One day, Cooper experiences a gravitational
- "anomaly" in his daughter Murph's bedroom. He deduces it to be a pattern of GPS coordinates and arrives
+ anomaly" in his daughter Murph's bedroom. He deduces it to be a pattern of GPS coordinates and arrives
  at a secret NASA facility headed by Professor Brand. Brand explains to Cooper that it is engaged in a
  secret mission to discover an exoplanet capable of supporting life and that he is working on a gravity-equation.
  He enlists Cooper's help to pilot an exploratory spacecraft with three other scientists – Romilly, Doyle, and Brand’s daughter Amelia. The crew travels through a wormhole on board the Endurance to pass through to another galaxy. Their mission is to investigate three planets, orbiting a supermassive black hole called Gargantua, each of which was previously explored by a NASA scientist-explorer.
+
+3.
+#Game of Thrones
+
+##Directors: Mark Mylod, Alex Graves, David Nutter, MORE
+
+#Stars
+Peter Dinklage
+Lena Headey
+Emilia Clarke
+...
+
+#Plot
+See also: Synopsis of A Song of Ice and Fire and World of A Song of Ice and Fire
+Game of Thrones is roughly based on the storylines of the A Song of Ice and Fire book series by George R. R. Martin, set in the fictional Seven Kingdoms of Westeros and the continent of Essos.[5][6] The series follows several simultaneous plot lines.[7] The first story arc follows a war of succession among competing claimants for control of the Iron Throne of the Seven Kingdoms, with other noble families fighting for independence from the throne. The second concerns the exiled scion's actions to reclaim the throne; the third chronicles the threat of the impending winter, as well as the legendary creatures and fierce peoples of the North.[8]
 
