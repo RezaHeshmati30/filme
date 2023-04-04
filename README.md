@@ -2,10 +2,11 @@
 :shipit:
 
 [#intersteller](interstellar.md)
-![image für interstellar](image/interstellar.png)
+
+![image für interstellar](images/interstellar.png)
 
 [#the Martian](martian.md)
-![image für martian](image/martian.jpg)
+![image für martian](images/martian.jpg)
 
 [#Seven](Seven.md)
-![image für seven](image/seven.jpg)
+![image für seven](images/seven.jpg)
