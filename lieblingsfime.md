@@ -52,18 +52,3 @@ Game of Thrones is roughly based on the storylines of the A Song of Ice and Fire
 
 ##keine ahnung
 
-5.
-#book
-
-6.
-#reza
-
-
-7.
-#ana
-
-8.
-#titanic
-
-9.
-#Seven
